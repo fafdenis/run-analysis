@@ -9,5 +9,5 @@ This is meant for a course project to show the steps of how to prepare a tidy da
 
 ## Getting Started
 1. Read through the CodeBook.md and the run_analysis.R script to have a general understanding of the project, the variables, data transformations, and output file. 
-2. Download and place the [data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) in a directory called UCI HAR Dataset.
+2. Download and place the [data](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) in a directory called UCI-HAR-Dataset.
 3. Run the run_analysis.R script to generate the tidy dataset. 
